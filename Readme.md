@@ -1,13 +1,29 @@
 ![d0eae39c-873c-4ab6-adff-96acca21de4d](https://github.com/user-attachments/assets/3f6ee2d2-c16b-489d-9615-c09b961df1a3)
 
 <h1 align="center">Hi 👋, I'm Nail</h1>
+<div align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+  <h2 align="center">GitHub Profile Trophy</h2>
+  </div>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rzayevnail&label=Profile%20views&color=0e75b6&style=flat" alt="rzayevnail" /> </p>
+<p align="left" style="display: inline-block; margin-right: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=rzayevnail&label=Profile%20views&color=0e75b6&style=flat" alt="rzayevnail" />
+  <a href="https://www.linkedin.com/notifications/?filter=all">
+    <img src="https://img.shields.io/static/v1?label=FollowMe&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
+ <div style="display: flex; align-items: center;">
+
+[![stargazers](https://img.shields.io/github/stars/rzayevnail/github-profile-trophy)](https://github.com/rzayevnail/github-profile-trophy/stargazers)
+[![forks](https://img.shields.io/github/forks/rzayevnail/github-profile-trophy)](https://github.com/rzayevnail/github-profile-trophy/network/members)
+
+</div>
+  </a>
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rzayevnail" alt="rzayevnail" /></a> </p>
 
-- 🔭 I’m currently working on **C# Asp.Net Core**
+- 🔭 I’m currently working on **C# , Asp.Net Core**
 
 - 🌱 I’m currently learning **Udemy**
 
@@ -15,7 +31,8 @@
 
 - 📫 How to reach me **rzayevnail03@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
