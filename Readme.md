@@ -1,4 +1,5 @@
-![d0eae39c-873c-4ab6-adff-96acca21de4d](https://github.com/user-attachments/assets/3f6ee2d2-c16b-489d-9615-c09b961df1a3)
+<img width="2000" height="600" alt="Clean Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/a9a34d2f-c08c-4acc-af9c-e54f5832d04f" />
+
 
 <h1 align="center">Hi 👋, I'm Nail</h1>
 <div align="center">
