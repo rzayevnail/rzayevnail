@@ -1,4 +1,4 @@
-<img width="2000" height="600" alt="Clean Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/a9a34d2f-c08c-4acc-af9c-e54f5832d04f" />
+<img width="2000" height="600" alt="Clean Modern Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/8f9f9b7d-d023-4049-b609-73483e21dc7f" />
 
 
 <h1 align="center">Hi 👋, I'm Nail</h1>
